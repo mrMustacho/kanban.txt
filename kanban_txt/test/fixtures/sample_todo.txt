@@ -1,0 +1,8 @@
+(A) 2024-01-15 Buy fat-free milk @home list:backlog list:backlog
+(B) Call mom @personal list:in-progress
+x 2024-01-16 Complete project +work list:done
+(A) 2024-01-18 Implement feature +backend +mobile list:backlog
+Fix bug in login +mobile @work list:in-progress
+x 2024-01-17 Write documentation +backend list:done
+(C) Review PR +backend @work list:in-progress
+2024-01-20 Book appointment @personal list:backlog

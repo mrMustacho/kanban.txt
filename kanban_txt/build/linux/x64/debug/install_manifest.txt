@@ -1,0 +1,12 @@
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/kanban_txt
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mrmustacho/Repositories/kanban.txt/kanban_txt/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf

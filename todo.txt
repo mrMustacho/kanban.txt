@@ -1,0 +1,8 @@
+(A) 2026-02-19 Fix board update on task edit 
+(A) 2026-02-19 Fix new task creation
+(A) 2026-02-19 Fix issue where list editing just append the new list instead of modifying it
+(B) 2026-02-19 Fix filter selections
+(C) 2026-02-19 Add task drag-and-drop
+(D) 2026-02-19 Add List view screen
+(D) 2026-02-19 Add Theme Customization
+(D) 2026-02-19 Add Configuration Screen
